@@ -1,0 +1,86 @@
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\bin\Debug\Plane Shooter.exe.config
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\bin\Debug\Plane Shooter.exe
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\bin\Debug\Plane Shooter.pdb
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane Shooter.csproj.AssemblyReference.cache
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane Shooter.csproj.SuggestedBindingRedirects.cache
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane_Shooter.Form1.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane_Shooter.Properties.Resources.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane Shooter.csproj.GenerateResource.cache
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane Shooter.csproj.CoreCompileInputs.cache
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane Shooter.exe
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane Shooter.pdb
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Interop.WMPLib.dll
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane Shooter.csproj.ResolveComReference.cache
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane_Shooter.Home.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane_Shooter.Play.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane_Shooter.Options.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane_Shooter.Break.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane_Shooter.EndGame.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane_Shooter.Settingcs.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter\Plane Shooter\obj\Debug\Plane_Shooter.BestScore.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\bin\Debug\Plane Shooter.exe.config
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\bin\Debug\Plane Shooter.exe
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\bin\Debug\Plane Shooter.pdb
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.AssemblyReference.cache
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Interop.WMPLib.dll
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.ResolveComReference.cache
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.BestScore.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Break.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.EndGame.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Form1.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Home.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Options.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Play.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Properties.Resources.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Settingcs.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.GenerateResource.cache
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.CoreCompileInputs.cache
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.exe
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\project\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.pdb
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\bin\Debug\Plane Shooter.exe.config
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\bin\Debug\Plane Shooter.exe
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\bin\Debug\Plane Shooter.pdb
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.AssemblyReference.cache
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.SuggestedBindingRedirects.cache
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Interop.WMPLib.dll
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.ResolveComReference.cache
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.BestScore.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Break.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.EndGame.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Form1.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Home.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Options.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Play.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Properties.Resources.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Settingcs.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.GenerateResource.cache
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.CoreCompileInputs.cache
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.exe
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.pdb
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Option.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Station1.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Station2.resources
+D:\ປີ3ເທີມ2\Computer Graphic\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Station3.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\bin\Debug\Plane Shooter.exe.config
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\bin\Debug\Plane Shooter.exe
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\bin\Debug\Plane Shooter.pdb
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.AssemblyReference.cache
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Interop.WMPLib.dll
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.ResolveComReference.cache
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.BestScore.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Break.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.EndGame.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Form1.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Home.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Option.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Options.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Play.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Properties.Resources.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Settingcs.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Station3.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Station1.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane_Shooter.Station2.resources
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.GenerateResource.cache
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.csproj.CoreCompileInputs.cache
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.exe
+D:\Lesson\3CS1 Term2 2022-2023\Computer Graphics\Plane Shooter 2-\Plane Shooter 2\Plane Shooter\obj\Debug\Plane Shooter.pdb
